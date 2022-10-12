@@ -1,0 +1,149 @@
+* {
+  display: 100vh;
+}
+
+.navbar-container {
+  margin: 80px 250px 80px 250px;
+}
+
+.logo {
+  display: inline;
+}
+
+.menu {
+  display: inline;
+  margin-left: 17vw;
+} 
+
+.list {
+  display: inline;
+}
+
+.list-item {
+  display: inline;
+  margin-right: 50px;
+  font-family: "Orbitron", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.active {
+  font-weight: 700;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+.button-group {
+  display: inline;
+  float: right;
+}
+
+.search-icon {
+  display: inline;
+  margin-right: 20px;
+}
+
+.button-div {
+  display: inline;
+}
+
+.nav-button {
+  background-color: #fff;
+  display: inline;
+  padding: 4px 60px 4px 60px;
+  border-radius: 15px;
+  border-width: 4px;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: grey;
+}
+
+.hero-container {
+  position: relative;
+  margin: 80px 250px 80px 250px;
+}
+
+.square {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 35vh;
+}
+
+.star {
+  float: right;
+  margin-top: 100px;
+}
+
+.globe {
+  margin-left: 45vw;
+}
+
+.img-man {
+  position: absolute;
+  top: 120px;
+  z-index: 1;
+}
+
+.hero-heading {
+  float: right;
+  font-size: 90px;
+  font-family: "Orbitron", sans-serif;
+}
+
+.hero-description {
+  float: right;
+  font-size: 20px;
+  margin-right: 10vw;
+  font-family: "Poppins", sans-serif;
+  color: grey;
+  text-align: center;
+}
+
+.call-to-action {
+  position: absolute;
+  float: right;
+  top: 600px;
+  right: 500px;
+}
+
+.button-email {
+  padding: 5px 40px 5px 40px;
+  border-radius: 15px;
+  font-size: 25px;
+  background-color: #fff;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 500;
+  color: grey;
+}
+
+.button-join {
+  padding: 5px 20px 5px 20px;
+  border-radius: 15px;
+  font-size: 25px;
+  background-color: #000;
+  color: #fff;
+  font-weight: 500;
+  font-family: "Orbitron", sans-serif;
+}
+
+.contact-heading {
+  position: absolute;
+  float: right;
+  top: 750px;
+  right: 650px;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  color: grey;
+}
+
+.icons {
+  position: absolute;
+  float: right;
+  top: 840px;
+  right: 600px;
+}
+
+span {
+  margin-left: 20px;
+}
